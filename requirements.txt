@@ -1,0 +1,10 @@
+albumentations==1.0.3
+flake8==3.9.2
+mypy==0.812
+pandas==1.3.4
+pylint==2.8.2
+pytorch-argus==0.2.1
+scikit-learn==1.0
+git+https://github.com/BloodAxe/pytorch-toolbelt.git
+git+https://github.com/rwightman/pytorch-image-models.git
+git+https://github.com/qubvel/ttach.git
